@@ -50,13 +50,11 @@ lumicalc/
 ├── script.js      # Calculation logic
 └── README.md      # This file
 📸 Screenshot
-![image](https://github.com/user-attachments/assets/9bd25002-1bb7-44e1-bb02-55d149dccf6d)
+(https://github.com/user-attachments/assets/90990909-107c-4b88-b99b-8a754fea9934)
+![image](https://github.com/user-attachments/assets/968f1efe-5257-4b13-9a1c-d95b46a62d3c)
 
 
-scss
-Copy
-Edit
-![LUMICALC Preview](screenshot.png)
+
 💡 Learning Goals
 DOM manipulation
 
