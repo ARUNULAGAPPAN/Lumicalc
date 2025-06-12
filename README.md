@@ -18,8 +18,8 @@
 ---
 
 ## 💻 Live Preview
+![image](https://github.com/user-attachments/assets/cb46bcca-3138-4a36-828c-01ea81780686)
 
-> 💡 *Host it on GitHub Pages or Netlify for a live demo*
 
 ---
 
@@ -49,11 +49,6 @@ lumicalc/
 ├── styles.css     # Neon blue glowing theme
 ├── script.js      # Calculation logic
 └── README.md      # This file
-📸 Screenshot
-(https://github.com/user-attachments/assets/90990909-107c-4b88-b99b-8a754fea9934)
-![image](https://github.com/user-attachments/assets/968f1efe-5257-4b13-9a1c-d95b46a62d3c)
-
-
 
 💡 Learning Goals
 DOM manipulation
